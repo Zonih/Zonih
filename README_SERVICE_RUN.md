@@ -68,7 +68,7 @@ After completing the service run, follow these steps to ensure proper data manag
 
 3. Insert the batteries into the chargers.
 
-4. Connect the harvester to the field computer.
+4. Connect the harvester to the field computer, but do not turn them on yet.
 
 5. Open the _**SoloLite.exe**_ program.
 

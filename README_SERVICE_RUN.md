@@ -112,7 +112,7 @@ After completing the service run, follow these steps to ensure proper data manag
 
 21. Wait for the progress bar to complete.
 
-23. All converted data will be stored in the _**SOLODATA**_ folder on the computer.
+23. All converted data will be stored in the _**SOLODATA**_ folder on the computer. ![Screenshot 2025-02-03 104505](https://github.com/user-attachments/assets/f21e76c6-b5a8-405e-803a-7196bcf0cadb)
 
 24. Now you can close the SoloLite program.
 
@@ -126,6 +126,7 @@ After completing the service run, follow these steps to ensure proper data manag
 2. Enter the Host, Username, Password, and Port details.
 
 3. Click the _**Quickconnect button**_.
+
 
 4. In the _**Local site panel**_, navigate to the folder containing the files. 
 ![Screenshot 2025-02-03 112427](https://github.com/user-attachments/assets/d8e2a3e7-39c5-4df7-9a29-19ba9a08ded3)

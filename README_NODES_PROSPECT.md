@@ -1,5 +1,5 @@
 # REFNOS PROSPECT
-Hello, this README guides you through creating a Smart Solo prospect and setting up its corresponding script.
+Hello, this README guides you through creating a Smart Solo prospect and setting up the nodes with their corresponding script.
 
 #### Creating a New Prospect
 

@@ -12,7 +12,7 @@ Before heading out to the field, ensure you have all the necessary materials pre
 
 2. <u>**Field Sheets:**</u> Prepare all necessary field sheets, such as: ![Screenshot 2025-02-03 at 8 34 55 AM](https://github.com/user-attachments/assets/bb0e140a-ae3a-4313-a5bd-0ed50f1a643f)
 
-3. <u>**Maps:**</u> Create a simple Google Earth map marking all field points. This will help visualize completed and pending tasks.
+3. <u>**Maps:**</u> Create and print a simple Google Earth map marking all field points. This will help visualize completed and pending tasks.
 
 4. <u>**Navigation:**</u> Develop a Google Maps project with all field points for easy navigation.
 

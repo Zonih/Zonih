@@ -145,7 +145,7 @@ After completing the service run, follow these steps to ensure proper data manag
         - Site Code
         - Sensor SN (serial number)
 
-2. _**Carefully enter the data**_, ensuring accuracy in the Site Code and Serial Numbers. Double-check to avoid mistakes.
+2. _**Carefully enter the data from the Field Sheets**_, ensuring accuracy in the Site Code and Serial Numbers. Double-check to avoid mistakes.
 
 3. Save the file in _**.dat format**_.
 

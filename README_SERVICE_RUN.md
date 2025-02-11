@@ -243,7 +243,7 @@ if __name__ == '__main__':
 `du -h --max-depth=1 foldername | grep -v "foldername$" | awk '{gsub("foldername/", "", $2); print $1 "\t" $2}' | sort -k2n > mem_per_day.dat`
 
 9. Once the file is created, you can plot the memory usage by running: `python plot_memory_used.py -F mem_per_day.dat` 
-<u>**Note:**</u> Make sure to adjust the figure name in the script if needed.
+<u>**Note:**</u> Make sure to adjust the figure name in the following script if needed.
 
 ```python
 import numpy as np 

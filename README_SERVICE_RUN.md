@@ -2,7 +2,7 @@
 
 Hello! In this walkthrough, we will outline the steps involved before, during, and after a service run to retrieve and systematize data from the field.
 
-As you know, we have 70 Smart Solo Nodes deployed in a densely populated area. Since the batteries last approximately 28 days, it is essential to follow a systematic order for swapping the nodes (replacing old ones with new) and for downloading and uploading data to the servers.
+As you know, we have 70 Smart Solo Nodes deployed in a densely populated area. Since the batteries last approximately 28 days, it is essential to follow a systematic order for swapping the nodes (replacing old ones with new ones) and for downloading and uploading data to the servers.
 
 #### Before the Service Run
 

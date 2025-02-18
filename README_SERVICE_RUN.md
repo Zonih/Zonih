@@ -71,7 +71,7 @@ After completing the service run, follow these steps to ensure proper data manag
 4. Connect the harvester to the field computer, but do not turn them on yet.
 
 5. If you have more than one Harvester, make sure you are using the correct device configuration file. You can find these files in the _**deviceconfig**_ folder.
-	<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/b4ac095b-7a74-4b7f-8792-14795cca8a51" />
+<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/b4ac095b-7a74-4b7f-8792-14795cca8a51" />
 
 7. If the correct configuration file is incorrect, you can find alternative options in the _**DeviceConfigArchive**_ folder. Choose the appropriate file and copy it into the _**deviceconfig**_ folder. ![Screenshot 2025-02-18 074900](https://github.com/user-attachments/assets/62e2d240-6423-4893-8229-b2940540ce6a)
 

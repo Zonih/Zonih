@@ -70,50 +70,51 @@ After completing the service run, follow these steps to ensure proper data manag
 
 4. Connect the harvester to the field computer, but do not turn them on yet.
 
-5. If you have more than one Harvester, make sure you are using the correct device configuration file. You can find these files in the _**deviceconfig**_ folder. <img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/b4ac095b-7a74-4b7f-8792-14795cca8a51" />
+5. If you have more than one Harvester, make sure you are using the correct device configuration file. You can find these files in the _**deviceconfig**_ folder.
+<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/b4ac095b-7a74-4b7f-8792-14795cca8a51" />
 
-6. If the correct configuration file is incorrect, you can find alternative options in the _**DeviceConfigArchive**_ folder. Choose the appropriate file and copy it into the _**deviceconfig**_ folder. ![Screenshot 2025-02-18 074900](https://github.com/user-attachments/assets/62e2d240-6423-4893-8229-b2940540ce6a)
+7. If the correct configuration file is incorrect, you can find alternative options in the _**DeviceConfigArchive**_ folder. Choose the appropriate file and copy it into the _**deviceconfig**_ folder. ![Screenshot 2025-02-18 074900](https://github.com/user-attachments/assets/62e2d240-6423-4893-8229-b2940540ce6a)
 
-7. Open the _**SoloLite.exe**_ program.
+8. Open the _**SoloLite.exe**_ program.
 
-8.  Open the project. Ensure you have already created a prospect using **README_NODES_PROSPECT**.![Screenshot 2025-02-03 095642](https://github.com/user-attachments/assets/41097a63-eb24-4674-840d-1b5912d66067)
+9.  Open the project. Ensure you have already created a prospect using **README_NODES_PROSPECT**.![Screenshot 2025-02-03 095642](https://github.com/user-attachments/assets/41097a63-eb24-4674-840d-1b5912d66067)
 
-9. Plug in the harvesters and chargers, then turn them on.
+10. Plug in the harvesters and chargers, then turn them on.
 
-10. The data will download automatically, which may take a few minutes.
+11. The data will download automatically, which may take a few minutes.
 
-11. After the download is complete, you can find all raw data (in DLD format) in the _**DCCDATA**_ folder within the service run subfolder on the computer. ![Screenshot 2025-02-03 103149](https://github.com/user-attachments/assets/9b9bf01b-2ad0-40d2-9470-e3f878bf035b)
+12. After the download is complete, you can find all raw data (in DLD format) in the _**DCCDATA**_ folder within the service run subfolder on the computer. ![Screenshot 2025-02-03 103149](https://github.com/user-attachments/assets/9b9bf01b-2ad0-40d2-9470-e3f878bf035b)
 
-12. If the _**FIFOS**_ option is not enabled (see details in **README_NODES_PROSPECT**), you must set up the nodes with the script. Click on the _**Setup IGU-16**_ icon. 
+13. If the _**FIFOS**_ option is not enabled (see details in **README_NODES_PROSPECT**), you must set up the nodes with the script. Click on the _**Setup IGU-16**_ icon. 
 ![Screenshot 2025-02-03 162110](https://github.com/user-attachments/assets/95b568bd-fa74-4574-a247-6b534d2924d5)
 
-13. A new window titled _**Device Setup**_ will appear. Check the following boxes: Select all, Format device, Retain configuration files, and Write script. Ensure you select the correct script for the last option.
+14. A new window titled _**Device Setup**_ will appear. Check the following boxes: Select all, Format device, Retain configuration files, and Write script. Ensure you select the correct script for the last option.
 ![Screenshot 2025-02-03 162210](https://github.com/user-attachments/assets/515230d0-c179-4171-97dd-8d5a09d09b18)
 
-14. Click the _**Apply**_ button and wait for the nodes to be set up.
+15. Click the _**Apply**_ button and wait for the nodes to be set up.
 
-15. To convert the data to MSEED or SAC format, follow these additional steps. If you have multiple service runs within a short time frame with repeating nodes, the SoloLite program may crash due to the large amount of data stored in the project history. It is recommended to create a new _**Prospect**_ with a new _**Project**_ for data conversion. Refer to **README_NODES_PROSPECT** for guidance.
+16. To convert the data to MSEED or SAC format, follow these additional steps. If you have multiple service runs within a short time frame with repeating nodes, the SoloLite program may crash due to the large amount of data stored in the project history. It is recommended to create a new _**Prospect**_ with a new _**Project**_ for data conversion. Refer to **README_NODES_PROSPECT** for guidance.
 
-16. Once you have a new _**Prospect**_, copy and paste the DLD files into the _**DCCDATA**_ folder of the new service run subfolder.
+17. Once you have a new _**Prospect**_, copy and paste the DLD files into the _**DCCDATA**_ folder of the new service run subfolder.
 
-17. In the SoloLite program, click the _**Reanalyze seismic data**_ icon.
+18. In the SoloLite program, click the _**Reanalyze seismic data**_ icon.
 ![Screenshot 2025-02-03 110734](https://github.com/user-attachments/assets/3ca684bc-37b2-42b6-bd79-4e0ed9d7bdd1)
 
-18. A small window will pop up; select the option _**<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/8f54752a-4540-4051-9bb0-e8d96441a040" />
+19. A small window will pop up; select the option _**<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/8f54752a-4540-4051-9bb0-e8d96441a040" />
 Reanalyze All (Delete database record prior to analysis)**_. 
 
-19. Click the _**Reanalysis button**_.
+20. Click the _**Reanalysis button**_.
 
-20. After this, the history panel should be filled up as shown in the following image:
+21. After this, the history panel should be filled up as shown in the following image:
 ![Screenshot 2025-02-03 111453](https://github.com/user-attachments/assets/57b0b5e1-270b-47dd-8d2f-d16cad3a9978)
 
-21. Convert the data to MSEED or SAC format by clicking the _**Export Seismic Data**_ icon. 
+22. Convert the data to MSEED or SAC format by clicking the _**Export Seismic Data**_ icon. 
 ![Screenshot 2025-02-03 103406](https://github.com/user-attachments/assets/675265c5-d691-42e2-870b-71d04c1c38c1)
 
-22. A new window will appear; fill in the information as needed.
+23. A new window will appear; fill in the information as needed.
 ![Screenshot 2025-02-03 103741](https://github.com/user-attachments/assets/6584ce71-b9d5-4b23-b417-507502f1a00e)
 
-23. Click the _**Prepare**_ button and then the _**Run**_ button.
+24. Click the _**Prepare**_ button and then the _**Run**_ button.
 
 21. Wait for the progress bar to complete.
 

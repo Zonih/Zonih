@@ -97,8 +97,7 @@ After completing the service run, follow these steps to ensure proper data manag
 
 17. Once you have a new _**Prospect**_, copy and paste the DLD files into the _**DCCDATA**_ folder of the new service run subfolder.
 
-18. In the SoloLite program, click the _**Reanalyze seismic data**_ icon.
-![Screenshot 2025-02-03 110734](https://github.com/user-attachments/assets/3ca684bc-37b2-42b6-bd79-4e0ed9d7bdd1)
+18. In the SoloLite program, click the _**Reanalyze seismic data**_ icon. ![Screenshot 2025-02-03 110734](https://github.com/user-attachments/assets/3ca684bc-37b2-42b6-bd79-4e0ed9d7bdd1)
 
 19. A small window will pop up; select the option _**<img width="512" alt="Screenshot 2025-02-18 074843" src="https://github.com/user-attachments/assets/8f54752a-4540-4051-9bb0-e8d96441a040" />
 Reanalyze All (Delete database record prior to analysis)**_. 
